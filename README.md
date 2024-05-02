@@ -14,15 +14,13 @@ Vue
 Composition API
 Javascript
 Css
-
-
 ```
 
 ### Clone repo 🔧
 
 ```
 https://github.com/GonzaloVolonterio/vue-expense-tracker
-
+```
 
 ### Install🔧
 
